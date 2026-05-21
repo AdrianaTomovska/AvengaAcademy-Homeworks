@@ -1,0 +1,14 @@
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\bin\Debug\net10.0\Task02.exe
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\bin\Debug\net10.0\Task02.deps.json
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\bin\Debug\net10.0\Task02.runtimeconfig.json
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\bin\Debug\net10.0\Task02.dll
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\bin\Debug\net10.0\Task02.pdb
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.AssemblyInfoInputs.cache
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.AssemblyInfo.cs
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.csproj.CoreCompileInputs.cache
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.dll
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\refint\Task02.dll
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.pdb
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\Task02.genruntimeconfig.cache
+C:\Adriana\Avenga Academy\Homeworks\C#-Advanced\Homework-4\Task02\obj\Debug\net10.0\ref\Task02.dll
